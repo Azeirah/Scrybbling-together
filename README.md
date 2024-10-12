@@ -1,4 +1,4 @@
-# Scrybbling togethet
+# Scrybbling together
 
 ReMarkable is about slow thought and deliberation.
 
